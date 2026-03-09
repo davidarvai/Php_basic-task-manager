@@ -32,6 +32,3 @@ The app allows users to:
 - **MySQL** – Relational database for task storage  
 - **HTML** – Basic structure and forms  
 - **XAMPP** – Local server environment (Apache + MySQL)  
-
-
-## Project Structure
