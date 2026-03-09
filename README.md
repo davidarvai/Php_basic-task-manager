@@ -33,6 +33,5 @@ The app allows users to:
 - **HTML** – Basic structure and forms  
 - **XAMPP** – Local server environment (Apache + MySQL)  
 
----
 
 ## Project Structure
